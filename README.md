@@ -1,4 +1,4 @@
-![Junior 모임 배너]([https://github.com/awskrug/junior-group/assets/](https://github.com/user-attachments/assets/0e5ab233-d1cc-40ed-b492-a724a0ea7f32))
+![Junior 모임 배너]([[https://github.com/awskrug/junior-group/assets/](https://github.com/user-attachments/assets/0e5ab233-d1cc-40ed-b492-a724a0ea7f32)])
 
 
 # Meetups
